@@ -1,0 +1,23 @@
+{
+  "name": "ip-map-tracker",
+  "version": "1.0.0",
+  "description": "![Design preview for the IP address tracker coding challenge](./design/desktop-preview.jpg)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KeoFoxy/ip-map-tracker.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KeoFoxy/ip-map-tracker/issues"
+  },
+  "homepage": "https://github.com/KeoFoxy/ip-map-tracker#readme",
+  "devDependencies": {
+    "parcel-bundler": "^1.8.1"
+  }
+}
