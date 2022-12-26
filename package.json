@@ -20,5 +20,8 @@
   "homepage": "https://github.com/KeoFoxy/ip-map-tracker#readme",
   "devDependencies": {
     "parcel-bundler": "^1.12.5"
+  },
+  "dependencies": {
+    "leaflet": "^1.9.3"
   }
 }

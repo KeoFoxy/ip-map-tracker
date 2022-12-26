@@ -26,6 +26,10 @@
     font-weight: 500;
     font-size: 3rem;
   }
+
+  .map {
+    min-height: calc(100vh - 200px);
+  }
   
   .search-bar {
     display: flex;
