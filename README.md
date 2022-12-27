@@ -7,7 +7,7 @@
 This simple project allows you to find location and show some data by IP. Data such as **Location**, **Timezone** and **ISP** will show up alongside with point on the map!
 
 ---
-## :desktop_computer: Technologies used in this project  
+## :desktop_computer: Technologies   
 * [IPify - ***IP Geolocation API***](https://geo.ipify.org/)  
 * [LeafletJS - ***Map***](https://leafletjs.com/)  
 * [Parcel - ***Build Tool***](https://parceljs.org/)  
