@@ -1,20 +1,20 @@
-# :pushpin: MLP - Map Location by IP 	:round_pushpin:
+# MLP - Map Location by IP 	:round_pushpin:
 
 ![Design preview for the IP address tracker coding challenge](./design/desktop-preview.jpg)
 
-## :memo::pencil: About
+## :memo:pencil: About
 
 This simple project allows you to find location and show some data by IP. Data such as **Location**, **Timezone** and **ISP** will show up alongside with point on the map!
 
 ---
-## Technologies used in this project  
+## :desktop_computer: Technologies used in this project  
 * [IPify - ***IP Geolocation API***](https://geo.ipify.org/)  
 * [LeafletJS - ***Map***](https://leafletjs.com/)  
 * [Parcel - ***Build Tool***](https://parceljs.org/)  
 * [Vercel - ***Deploy***](https://vercel.com/)  
 
 ---
-## View
+## :mag_right: View
 You can watch preview [*****here*****](https://mlp-map-location-by-ip.vercel.app/)   
 
 ---
