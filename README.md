@@ -1,4 +1,4 @@
-# MLP - Map Location by IP 	:round_pushpin:
+# :round_pushpin: MLP - Map Location by IP 
 
 ![Design preview for the IP address tracker coding challenge](./design/desktop-preview.jpg)
 
