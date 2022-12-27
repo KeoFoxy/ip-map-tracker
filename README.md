@@ -2,7 +2,7 @@
 
 ![Design preview for the IP address tracker coding challenge](./design/desktop-preview.jpg)
 
-## :memo:pencil: About
+## :memo: About
 
 This simple project allows you to find location and show some data by IP. Data such as **Location**, **Timezone** and **ISP** will show up alongside with point on the map!
 
